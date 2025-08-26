@@ -70,4 +70,4 @@ It includes **dimensions** and **fact tables** along with their attributes and r
 
 ## 📊 Business Rule
 
-**Sales Calculation:**  
+**Sales Calculation: sales_amount = quantity * price **  
